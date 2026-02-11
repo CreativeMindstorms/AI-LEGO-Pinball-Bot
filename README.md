@@ -3,7 +3,7 @@ Python code that runs a full PinBall experience, with 3 different ways to contro
 
 This is the code for my AI Lego Pinball machine, as seen on my YouTube channel:
 <div align="left">
-  <a href="https://youtu.be/do4EYq6oEQg"><img src="https://img.youtube.com/vi/do4EYq6oEQg/0.jpg" alt="AI LEGO Pinball machine video"></a>
+  <a href="https://youtu.be/do4EYq6oEQg"><img src="https://i.ytimg.com/vi/do4EYq6oEQg/maxresdefault.jpg" alt="AI LEGO Pinball machine video" style="width:25vw"></a>
 </div>
 
 If you enjoy what I do and would like to support future creations, consider buying me a [🧱 Lego brick](https://buymeacoffee.com/creativemindstorms)!
